@@ -1,4 +1,7 @@
 Hello GIT
 It is new line
+<<<<<<< HEAD
 Add new line
 add
+=======
+>>>>>>> parent of 90b6e40... Test status

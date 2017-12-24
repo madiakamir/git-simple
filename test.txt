@@ -3,5 +3,6 @@ It is new line
 <<<<<<< HEAD
 Add new line
 add
+I am testing branches
 =======
 >>>>>>> parent of 90b6e40... Test status
